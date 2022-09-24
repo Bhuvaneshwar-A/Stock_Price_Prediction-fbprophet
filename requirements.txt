@@ -1,0 +1,9 @@
+numpy
+pandas
+pystan
+yfinance
+streamlit
+plotly
+fbprophet
+
+
